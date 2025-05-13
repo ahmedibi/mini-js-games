@@ -12,7 +12,7 @@ A two-player dice game. Players take turns rolling a die:
 
 - If they roll a 1, they lose their turn and points.
 - They can hold to secure their score and pass the turn.
-- First to reach the winning score wins!
+- First to reach the winning score of 100 wins!
 
 ### 2. ❓ Guess The Number
 
